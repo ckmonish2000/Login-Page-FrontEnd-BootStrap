@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+     padding: 50px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+   
+
+#main_div
+{
+    width:  500px;
+}
+
+h1
+{
+    font-size: 40px;
+    color: grey;
+	text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+label
+{
+font-size: 19px;
+margin-top: 20px;
+font-weight: normal;
+   
+}
+
+.form-control{
+    background: rgba(255, 255, 255, 0.2);
+    border:0px;
+    border-radius: 0px;
+    border-bottom:2px solid black;
+    font-size: 21px;
+    color:black;
+    margin-top: 20px;
+}
+
+.btn-info{
+    margin-top:20px;
+    margin-left: 150px;
+    width: 180px;
+}
+
+h1{
+    text-align: center;
+}
+
+#checked{
+    background: white;
+}
+
+.btn-info{
+    margin-top:20px;
+    margin-left: 150px;
+    width: 180px;
+}
+
+#checked{
+
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 100px;
+
+}
+.main{
+    width: 500px;
+    
+}
+
+input{
+    margin-bottom: 10px;
+}
+
